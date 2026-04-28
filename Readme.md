@@ -10,8 +10,9 @@ If you come across dead or obsolete links, please fix them by [making a pull req
 
 ## Web Version
 
-The web version of this repository can be found [here](https://shakil-shahadat.github.io/awesome-piracy/).
+The web version of this repository can be found [here](https://eddy-22.github.io/pages-test-01/).
 
+> `https://eddy-22.github.io/pages-test-01/`
 
 ## Backup
 
